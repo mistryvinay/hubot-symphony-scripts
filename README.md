@@ -30,4 +30,4 @@ Want to write your own Hubot script? The best way is to take a look at an existi
 
 ## Documentation
 
-All scripts in hubot-scripts should contain a documentation header so people know everything about the script.
+All scripts in hubot-symphony-scripts should contain a documentation header so people know everything about the script.
