@@ -1,5 +1,5 @@
 # hubot-symphony-scripts
-These are a collection of scripts for hubot, a chat bot for your company that can be integrated with [Symphony](www.symphony.com).
+These are a collection of scripts for hubot, a chat bot for your company that can be integrated with [Symphony](http://www.symphony.com).
 
 There is a new system for distributing scripts, and adding them to your own hubot. Locate the appropriate script in the [hubot-scripts organization](https://github.com/hubot-scripts) or on [npm tagged as *hubot-scripts*](https://www.npmjs.org/browse/keyword/hubot-scripts), and follow the script's documentation. In general, this will be something like:
 
