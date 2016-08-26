@@ -34,23 +34,3 @@ Want to write your own Hubot script? The best way is to take a look at an existi
 Documentation
 
 All scripts in hubot-scripts should contain a documentation header so people know everything about the script.
-
-# Description
-#   <description of the scripts functionality>
-#
-# Dependencies:
-#   "<module name>": "<module version>"
-#
-# Configuration:
-#   LIST_OF_ENV_VARS_TO_SET
-#
-# Commands:
-#   hubot <trigger> - <what the respond trigger does>
-#   <trigger> - <what the hear trigger does>
-#
-# Notes:
-#   <optional notes required for the script>
-#
-# Author:
-#   <github username of the original script author>
-If you have nothing to fill in for a section you should include None in that section. Empty sections which are optional should be left blank. A script will be required to fill out the documentation before being merged into the repository.
