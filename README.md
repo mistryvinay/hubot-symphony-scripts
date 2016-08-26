@@ -5,14 +5,14 @@ hubot-symphony-scripts
 
 These are a collection of scripts for hubot, a chat bot for your company.
 
-There is a new system for distributing scripts, and adding them to your own hubot. Locate the appropriate script in the hubot-scripts organization or on npm tagged as hubot-scripts, and follow the script's documentation. In general, this will be something like:
+There is a new system for distributing scripts, and adding them to your own hubot. Locate the appropriate script in the [hubot-scripts organization](https://github.com/hubot-scripts) or on [npm tagged as *hubot-scripts*](https://www.npmjs.org/browse/keyword/hubot-scripts), and follow the script's documentation. In general, this will be something like:
 
 Add a line to external-scripts.json
 Add a line to package.json
 Add environment variables, depending on the script
 Discovering
 
-Installing
+## Installing
 
 Once you have Hubot installed, you should already have hubot-scripts installed. Check package.json to be sure. If that is the case, you update hubot-scripts.json to list any scripts from this repository you want to load. The default hubot-scripts.json looks like:
 
@@ -27,10 +27,10 @@ Restart your robot, and you're good to go.
 
 All the scripts in this repository are located in src/scripts.
 
-Writing
+## Writing
 
 Want to write your own Hubot script? The best way is to take a look at an existing script and see how things are set up. Hubot scripts are written in CoffeeScript, a higher-level implementation of JavaScript.
 
-Documentation
+## Documentation
 
 All scripts in hubot-scripts should contain a documentation header so people know everything about the script.
